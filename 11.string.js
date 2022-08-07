@@ -28,6 +28,8 @@ console.log(a.toLowerCase());       //you know what it prints, haha;
 console.log(a.length);
 
 let b="Neha";
+b=b.toUpperCase();
+console.log(b);
 //a+=b;             //concatenate two strings;
 
 //console.log(a.trim());              // "  aaditya   " will print as "aaditya";
